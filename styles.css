@@ -10,6 +10,7 @@ html {
 
 body {
     font-family: 'Roboto', serif;
+    margin: 0px;
 }
 
 .section-one {
@@ -166,4 +167,14 @@ h2 {
     border: 0;
     border: 2px solid #f9faf8;
     align-self: center;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 15px;
+    text-align: center;
+}
+
+.footer p {
+    color: #e5e7eb;
 }
