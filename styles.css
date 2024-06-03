@@ -83,3 +83,27 @@ body {
     align-self: center;
     text-align: center;
 }
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.illustration-box {
+    padding: 20px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.illustration-box .illustration {
+    height: 300px;
+    width: 150px;
+}
+
+.illustration-box .illustration img {
+    border-radius: 10px;
+    border: 4px solid #3882f6;
+}
