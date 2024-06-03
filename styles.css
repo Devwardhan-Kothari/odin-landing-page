@@ -94,7 +94,7 @@ h2 {
 .illustration-box {
     padding: 20px;
     display: flex;
-    gap: 100px;
+    gap: 80px;
     justify-content: center;
 }
 
@@ -107,3 +107,29 @@ h2 {
     border-radius: 10px;
     border: 4px solid #3882f6;
 }
+
+.section-three {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 75px;
+}
+
+.quote {
+    width: 840px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.signature {
+    margin-top: -30px;
+    text-align: end;
+    font-size: 20px;
+    font-weight: bold;
+}
+
