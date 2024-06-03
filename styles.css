@@ -133,3 +133,37 @@ h2 {
     font-weight: bold;
 }
 
+.section-four {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.dialog-box {
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 20px 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.dialog-box .dialog-text h3 {
+    color: #f9faf8;
+}
+
+.dialog-box .dialog-text p {
+    color: #e5e7eb;
+}
+
+.dialog-box button {
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    border: 0;
+    border: 2px solid #f9faf8;
+    align-self: center;
+}
